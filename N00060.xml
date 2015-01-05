@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:000100_0000_0FA0281DA51A5638"/>
-            <pb facs="tcp:000100_0001_0FA0281E69092080"/>
+            <pb facs="unknown:000100_0000_0FA0281DA51A5638"/>
+            <pb facs="unknown:000100_0001_0FA0281E69092080"/>
             <head>A DIRECTION FOR A PUBLICK PROFESSION in the CHURCH ASSEMBLY, after private Examination by the <hi>ELDERS.</hi>
             </head>
             <p>Which Direction is taken out of the Scripture, and Points unto that Faith and Covenant contained in the Scripture.</p>
@@ -125,7 +125,7 @@
             </p>
             <p>The Genuine use of a Confession of Faith is, that under the same Form of Words they express the substance of the same common Salvation or unity of their Faith. Accordingly it is to be looked upon as a fit meanes, whereby to express that their Common Faith and Salvation, and not to be made use of as an imposition upon any.</p>
             <q>
-               <pb facs="tcp:000100_0002_0FA0281F4E36AFE8"/>
+               <pb facs="unknown:000100_0002_0FA0281F4E36AFE8"/>
                <p>WE Beseech you Brethren to know them that labour among you, and are over you in the Lord, and ad<g ref="char:EOLhyphen"/>monish you and to esteem them very highly in love for their work sake and be at peace among your selves, <bibl>
                      <hi>1 Thess. 5.12, 13.</hi>
                   </bibl>
@@ -184,7 +184,7 @@
                </p>
             </q>
             <div type="confession_of_faith">
-               <pb n="3" facs="tcp:000100_0003_0FA02820050389F0"/>
+               <pb n="3" facs="unknown:000100_0003_0FA02820050389F0"/>
                <head>THE CONFESSION OF FAITH.</head>
                <p>I do believe with my heart and confess with my mouth.</p>
                <div type="part">
@@ -200,7 +200,7 @@
                   <p>THat <hi>Adam</hi> by transgressing the Command of God, fall from God and brought himself and his posterity into a state of Sin and death, under the Wrath and Curse of God, which I do believe to be my own condition by nature as well as any other.</p>
                </div>
                <div type="part">
-                  <pb n="4" facs="tcp:000100_0004_0FA028215B3339F0"/>
+                  <pb n="4" facs="unknown:000100_0004_0FA028215B3339F0"/>
                   <head>Concerning Jesus Christ.</head>
                   <p>THat God sent his Son into the World, who for our sakes be<g ref="char:EOLhyphen"/>came man, that he might redeem and save us by his Obedience unto death, and that he arose from the dead, ascended unto Heaven and sitteth at the right hand of God, from whence he shall come to judge the World.</p>
                </div>
@@ -225,7 +225,7 @@
                </div>
             </div>
             <div type="covenant">
-               <pb n="5" facs="tcp:000100_0005_0FA0282208D89A48"/>
+               <pb n="5" facs="unknown:000100_0005_0FA0282208D89A48"/>
                <head>THE COVENANT.</head>
                <p>I do heart<gap reason="illegible: indecipherable" extent="3 letters">
                      <desc>•••</desc>
@@ -234,7 +234,7 @@
                </p>
             </div>
             <div type="questions">
-               <pb n="6" facs="tcp:000100_0006_0FA028233378C200"/>
+               <pb n="6" facs="unknown:000100_0006_0FA028233378C200"/>
                <head>Questions to be Answered at the Baptizing of Children, or the substance to be expressed by the Parents.</head>
                <p>
                   <hi>Quest.</hi> Doe you present and give up this child, or these children, unto God the Father, Sonne and Holy Ghost, <gap reason="illegible: indecipherable" extent="1 span">
